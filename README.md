@@ -11,5 +11,5 @@
 
 - Below is a gif file uploaded in the repository:
 
-![]()
+![](https://github.com/francisfebin/project_githubnoob/blob/main/github.gif)
 
